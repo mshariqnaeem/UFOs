@@ -4,7 +4,9 @@ Using Javascript to create a web page, learn new functions within Javascript suc
 
 ## Overview
 
-Dana has learned how to use HTML webpage's and also how to create dynamic tables within the webpage. She wants to take this a step further by allowing the user to filter data and multiple criteria to provide a more in-depth analysis of UFO sightings. She wants the user to be able to filter the city, state country and shape in the results. For this purpose we have decided to help Dana with the new skills we have learned
+Dana has learned how to use HTML webpage's and also how to create dynamic tables within the webpage. She wants to take this a step further by allowing the user to filter data and multiple criteria to provide a more in-depth analysis of UFO sightings. She wants the user to be able to filter the city, state country and shape in the results.
+
+For this purpose we have decided to help Dana with the new skills we have learned!
 
 ## Results
 
